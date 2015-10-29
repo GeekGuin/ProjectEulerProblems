@@ -1,2 +1,2 @@
 # ProjectEulerProblems
-Just to upload my Project Euler Solutions!
+Just to upload our Project Euler Solutions!
