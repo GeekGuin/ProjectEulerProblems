@@ -15,3 +15,4 @@ if __name__ == '__main__':
 	#~ print(sumInRange(_from, _to))
 	k = sumDivisibleBy(999, 3) + sumDivisibleBy(999, 5) - sumDivisibleBy(999, 15)
 	print(k)
+#HOLA MZ ES MARICO
