@@ -16,3 +16,4 @@ if __name__ == '__main__':
 	k = sumDivisibleBy(999, 3) + sumDivisibleBy(999, 5) - sumDivisibleBy(999, 15)
 	print(k)
 #HOLA MZ ES MARICO
+#HOla MZ es MARICO 2
